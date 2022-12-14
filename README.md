@@ -23,3 +23,5 @@ One notebook contains my analysis and a README contains project description
 ## My blog spot
 Link: https://vylt4.notion.site/Analyzing-Stack-Overflow-Developer-Survey-2017-using-the-CRISP-DM-Process-4ed21a636f0f4b7a893186e5912de201
 
+## Licensing, Authors, Acknowledgements, etc.
+Acknowledgement should go to [Kaggle](https://www.kaggle.com/zynicide/wine-reviews)
